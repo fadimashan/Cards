@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Spicy+Rice");
+
+*{
+    font-family: "Spicy Rice";
+}
+
+#title{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+html {
+    height: 100%;
+    background: linear-gradient(rgba(3, 104, 8, 0.5), rgba(2, 80, 15, 0.664));
+  }
+
+  body{
+    background-color: transparent;
+  }
